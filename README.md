@@ -1,5 +1,4 @@
 # DSA-Project
-Group number:16
 
 Full Name	Student Number
 
